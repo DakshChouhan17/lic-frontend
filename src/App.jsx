@@ -19,7 +19,7 @@ import AdminDashboard from './pages/AdminDashboard';
 import AdminLogin from './pages/AdminLogin';
 import MediaGallery from './components/MediaGallery';
 import About from './components/About';
-import WhyMe from './components/Whyme';
+import WhyMe from './components/WhyMe';
 import Testimonials from './components/Testimonials';
 
 
